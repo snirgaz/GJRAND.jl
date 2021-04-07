@@ -1,1 +1,1 @@
-# GJRAND
+# GJRand

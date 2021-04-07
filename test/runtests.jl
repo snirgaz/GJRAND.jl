@@ -1,6 +1,6 @@
-using GJRAND
+using GJRand
 using Test
 
-@testset "GJRAND.jl" begin
+@testset "GJRand.jl" begin
     # Write your tests here.
 end

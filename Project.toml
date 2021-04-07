@@ -1,4 +1,4 @@
-name = "GJRAND"
+name = "GJRand"
 uuid = "0c804728-dc53-409e-ba18-f4314f7fa6ff"
 authors = ["snirgaz <snir.gazit@mail.huji.ac.il> and contributors"]
 version = "0.1.0"
